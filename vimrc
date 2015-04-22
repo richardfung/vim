@@ -8,5 +8,9 @@ set ruler
 syntax on
 set backspace=indent,eol,start
 set nocompatible
+set hlsearch
 
 set ai
+
+set splitright
+set splitbelow
