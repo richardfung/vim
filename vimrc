@@ -14,3 +14,5 @@ set ai
 
 set splitright
 set splitbelow
+
+set colorcolumn=81
