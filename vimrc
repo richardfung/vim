@@ -1,3 +1,4 @@
+execute pathogen#infect()
 filetype plugin indent on
 
 set expandtab
@@ -16,3 +17,5 @@ set splitright
 set splitbelow
 
 set colorcolumn=81
+
+set numbers
