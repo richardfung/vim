@@ -18,4 +18,4 @@ set splitbelow
 
 set colorcolumn=81
 
-set numbers
+set number
